@@ -9,6 +9,7 @@ public class Lesson5_1 {
 	public Lesson5_1(int d) {
 	  dim = d;
   }
+
 	
 	public void show() {
 		int i = 1;
